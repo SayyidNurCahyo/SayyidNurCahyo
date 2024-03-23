@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/103240207/193903916-bb402d9d-c95c-4d38-bb31-5f91b2b3c1b0.png)
 
 - 👋 Hi, I’m Sayyid Nur Cahyo Abdul Jalil
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning in Institut Teknologi Sepuluh Nopember
-- 💞️ I’m looking to collaborate on open data science project
+- 👀 I’m interested in data science and fullstack developer
+- 🌱 I’m recently graduate in Institut Teknologi Sepuluh Nopember
+- 💞️ I’m looking to collaborate on information and technology project
 - 📫 How to reach me: sayyidnurc123@gmail.com
 
 <!---
