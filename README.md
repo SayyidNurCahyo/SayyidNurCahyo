@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **backend, frontend, or machine learning project**
 
-- 👨‍💻 All of my projects are available at [nurcahyo-portfolio.vercel.app](nurcahyo-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at **https://nurcahyo-portfolio.vercel.app/**
 
 - 📫 How to reach me **sayyidnurc123@gmail.com**
 
-- 📄 Connect with me [www.linkedin.com/in/sayyid-nur-cahyo-abdul-jalil-787b04217/](www.linkedin.com/in/sayyid-nur-cahyo-abdul-jalil-787b04217/)
+- 📄 Connect with me **www.linkedin.com/in/sayyid-nur-cahyo-abdul-jalil-787b04217/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
